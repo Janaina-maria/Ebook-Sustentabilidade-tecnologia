@@ -27,8 +27,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo para ebook sobre o tema de sustentabilidade, o ebook é do nicho de tecnologia e o subnicho é de sustentabilidade. O título deve ser curto e direto, e tenha uma temática voltada para natureza e tecnologia. Me liste 5 variações de títulos.                                                    |
-| conteúdo | faça um texto para ebook, com foco em sustentabilidade, listando mudanças que a sustentabilidade teve com tecnologia.
-Além disso, liste 5 reflexões sobre o tema para deixa as pessoas curiosas e pensativas. regras: explique sempre de maneira simples,contenha 3 capítulos completos e explicativos, deixe o texto enxuto, sempre deixa um titulo sugestivo por tópico. |
+| conteúdo | faça um texto para ebook, com foco em sustentabilidade, listando mudanças que a sustentabilidade teve com tecnologia.Além disso, liste 5 reflexões sobre o tema para deixa as pessoas curiosas e pensativas. regras: explique sempre de maneira simples,contenha 3 capítulos completos e explicativos, deixe o texto enxuto, sempre deixa um titulo sugestivo por tópico. |
 
 
 Leonardo.AI：
